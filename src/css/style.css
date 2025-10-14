@@ -1,0 +1,27 @@
+*{
+    width: 100vw;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsRegular;
+    background-color: var(--roxo-escuro);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+@media (min-width: 1200px){
+    *{
+        overflow: hidden;
+    }
+}
+
+*::-webkit-scrollbar{
+    background-color: var(--roxo-claro);
+    color: #fff;
+    width: 13px;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: #fff;
+    border-radius: 20px;
+}
