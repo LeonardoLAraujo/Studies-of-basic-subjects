@@ -118,10 +118,6 @@ const DeterminantesMenor = "";
 const DeterminantesMatrizes = "";
 const MatrizDefinicao = "";
 const NocoesEstatisticaConceito = "";
-
-const ComparandoJurosSimplesJurosComposto = "";
-const ConceitoPorcentagem = "";
-const CorrecaoMonetaria = "";
 const DescontoComposto = "";
 const DescontoSimples = "";
 const EquivalenciaTaxaJuros = "";
